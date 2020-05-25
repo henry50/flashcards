@@ -1,0 +1,6 @@
+5;Biology Revision
+1;What is the equation for photosynthesis?;CO2 + H2O -> C6H12O6 + O2
+2;What does anaerobic respiration in humans create?;Lactic Acid
+3;How many pairs of chromosomes do we have?;23
+4;What is the equation for respiration?;C6H12O6 + O2 -> CO2 + H2O
+5;What do mitcochondria do?;Respiration
